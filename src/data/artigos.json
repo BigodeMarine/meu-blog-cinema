@@ -1,0 +1,18 @@
+[
+    {
+        "slug": "evil-dead-rise",
+        "titulo": "Evil Dead Rise",
+        "autor": "Lee Cronin",
+        "data": "1982-1-24",
+        "descricao": "É o quinto filme da franquia Evil Dead,traz a fórmula clássica da série: Livro dos Mortos (Necronomicon), invocação de demônios e muita violência gráfica.",
+        "conteudo": "NA história se passa em um prédio de apartamentos em Los Angeles, diferente das tradicionais cabanas na floresta. \n\nBeth visita sua irmã Ellie, que mora com os filhos.\n\nDurante a estadia, um dos garotos encontra o Necronomicon e toca uma gravação com encantamentos que despertam os Deadites (espíritos demoníacos).\n\nEllie é possuída, e a família precisa lutar pela sobrevivência em meio ao terror crescente."
+    },
+    {
+        "slug": "o-senhor-dos-aneis",
+        "titulo": "O Senhor dos Anéis",
+        "autor": "J. R. R. Tolkien",
+        "data": "1892-1-03",
+        "descricao": "É um livro de alta fantasia, escrita entre 1937 e 1949, com muitas partes criadas durante a Segunda Guerra Mundial.",
+        "conteudo": "O mago Gandalf descobre que o anel mágico do hobbit Frodo Bolseiro é na verdade o Um Anel, forjado por Sauron, o Senhor do Escuro, para dominar todos os povos.\n\nPara destruir o Anel, Frodo deve levá-lo até a Montanha da Perdição, onde foi forjado. \n\nForma-se a Sociedade do Anel, com representantes de várias raças: Frodo, Sam, Merry, Pippin (hobbits),Gandalf (mago), Aragorn (herdeiro dos reis de Gondor), Legolas (elfo), Gimli (anão). \n\nAo longo da jornada, a Sociedade se separa, e cada grupo enfrenta batalhas e escolhas cruciais contra as forças de Sauron."
+    }
+]
