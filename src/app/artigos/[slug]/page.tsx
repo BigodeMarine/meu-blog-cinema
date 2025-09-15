@@ -25,7 +25,8 @@ export async function generateStaticParams() {
 }
 
 
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
+export async function generateMetadata(props: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+    const params = await props.params;
     const lista = artigos as Artigo[];
     const artigo = lista.find((a) => a.slug === params.slug);
 
@@ -50,7 +51,8 @@ export async function generateMetadata({ params }: { params: { slug: string } })
 }
 
 
-export default async function ArtigoPage({ params }: { params: { slug: string } }) {
+export default async function ArtigoPage(props: { params: Promise<{ slug: string }> }) {
+    const params = await props.params;
     const lista = artigos as Artigo[];
     const artigo = lista.find((a) => a.slug === params.slug);
 

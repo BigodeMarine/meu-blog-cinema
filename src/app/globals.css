@@ -1,4 +1,4 @@
-/* Reset simples */
+
 * {
   margin: 0;
   padding: 0;
@@ -13,10 +13,12 @@ html {
 }
 
 body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   line-height: 1.6;
 }
 
-/* Layout principal */
 header {
   background: #222;
   color: #fff;
@@ -30,6 +32,7 @@ header h1 {
 }
 
 main {
+  flex: 1;
   max-width: 900px;
   margin: 2rem auto;
   padding: 0 1rem;
@@ -44,7 +47,6 @@ footer {
   font-size: 0.9rem;
 }
 
-/* Artigos na Home */
 section h2 {
   font-size: 1.6rem;
   margin-bottom: 1rem;
@@ -91,7 +93,6 @@ small {
   color: #666;
 }
 
-/* Página de artigo */
 article > h2 {
   margin-bottom: 0.5rem;
   font-size: 2rem;

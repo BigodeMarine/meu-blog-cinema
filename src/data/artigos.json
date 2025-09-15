@@ -14,5 +14,13 @@
         "data": "1892-1-03",
         "descricao": "É um livro de alta fantasia, escrita entre 1937 e 1949, com muitas partes criadas durante a Segunda Guerra Mundial.",
         "conteudo": "O mago Gandalf descobre que o anel mágico do hobbit Frodo Bolseiro é na verdade o Um Anel, forjado por Sauron, o Senhor do Escuro, para dominar todos os povos.\n\nPara destruir o Anel, Frodo deve levá-lo até a Montanha da Perdição, onde foi forjado. \n\nForma-se a Sociedade do Anel, com representantes de várias raças: Frodo, Sam, Merry, Pippin (hobbits),Gandalf (mago), Aragorn (herdeiro dos reis de Gondor), Legolas (elfo), Gimli (anão). \n\nAo longo da jornada, a Sociedade se separa, e cada grupo enfrenta batalhas e escolhas cruciais contra as forças de Sauron."
+    },
+    {
+        "slug": "pacific-rim",
+        "titulo": "Pacific Rim",
+        "autor": "Guillermo del Toro",
+        "data": "1964-10-9",
+        "descricao": "Em um futuro próximo, a Terra é atacada por Kaijus, monstros gigantes que surgem de uma fenda no fundo do oceano Pacífico.",
+        "conteudo": "Para combatê-los, a humanidade cria os Jaegers, robôs colossais pilotados por duas pessoas conectadas por uma ponte neural chamada Drift.\n\nO piloto veterano Raleigh Becket e a novata Mako Mori se unem para pilotar o Jaeger Gipsy Danger e tentar impedir a invasão definitiva dos Kaijus."
     }
 ]
